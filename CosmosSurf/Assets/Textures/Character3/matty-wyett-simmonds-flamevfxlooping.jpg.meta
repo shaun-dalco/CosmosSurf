@@ -1,0 +1,1746 @@
+fileFormatVersion: 2
+guid: 740d9f38702229548b03ba214608c9fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2001355291158442700
+    second: matty-wyett-simmonds-flamevfxlooping_0
+  - first:
+      213: 6843324135916289237
+    second: matty-wyett-simmonds-flamevfxlooping_1
+  - first:
+      213: -1715510878547819288
+    second: matty-wyett-simmonds-flamevfxlooping_2
+  - first:
+      213: 7206692001700641338
+    second: matty-wyett-simmonds-flamevfxlooping_3
+  - first:
+      213: 4826593133186485410
+    second: matty-wyett-simmonds-flamevfxlooping_4
+  - first:
+      213: -4467076884224370872
+    second: matty-wyett-simmonds-flamevfxlooping_5
+  - first:
+      213: 822672923120027032
+    second: matty-wyett-simmonds-flamevfxlooping_6
+  - first:
+      213: -1509426533911691541
+    second: matty-wyett-simmonds-flamevfxlooping_7
+  - first:
+      213: -6554637135841804108
+    second: matty-wyett-simmonds-flamevfxlooping_8
+  - first:
+      213: 77048059234939478
+    second: matty-wyett-simmonds-flamevfxlooping_9
+  - first:
+      213: -6636415630573351364
+    second: matty-wyett-simmonds-flamevfxlooping_10
+  - first:
+      213: -4412527130748673325
+    second: matty-wyett-simmonds-flamevfxlooping_11
+  - first:
+      213: 4662643920841529665
+    second: matty-wyett-simmonds-flamevfxlooping_12
+  - first:
+      213: -6917642756705856502
+    second: matty-wyett-simmonds-flamevfxlooping_13
+  - first:
+      213: 4898782477431001632
+    second: matty-wyett-simmonds-flamevfxlooping_14
+  - first:
+      213: -4721037793234213900
+    second: matty-wyett-simmonds-flamevfxlooping_15
+  - first:
+      213: -3303331399845851040
+    second: matty-wyett-simmonds-flamevfxlooping_16
+  - first:
+      213: 5917160164398794290
+    second: matty-wyett-simmonds-flamevfxlooping_17
+  - first:
+      213: -7847553940824671505
+    second: matty-wyett-simmonds-flamevfxlooping_18
+  - first:
+      213: -6455218833141142947
+    second: matty-wyett-simmonds-flamevfxlooping_19
+  - first:
+      213: 6700567320227841997
+    second: matty-wyett-simmonds-flamevfxlooping_20
+  - first:
+      213: 4833380543374872137
+    second: matty-wyett-simmonds-flamevfxlooping_21
+  - first:
+      213: 2434355409368184554
+    second: matty-wyett-simmonds-flamevfxlooping_22
+  - first:
+      213: -8185155970064089183
+    second: matty-wyett-simmonds-flamevfxlooping_23
+  - first:
+      213: -7569938170572199502
+    second: matty-wyett-simmonds-flamevfxlooping_24
+  - first:
+      213: 7157269724674705885
+    second: matty-wyett-simmonds-flamevfxlooping_25
+  - first:
+      213: -7070730786358588934
+    second: matty-wyett-simmonds-flamevfxlooping_26
+  - first:
+      213: 1734312421034586921
+    second: matty-wyett-simmonds-flamevfxlooping_27
+  - first:
+      213: 2105835661414895389
+    second: matty-wyett-simmonds-flamevfxlooping_28
+  - first:
+      213: 4542058957502367876
+    second: matty-wyett-simmonds-flamevfxlooping_29
+  - first:
+      213: 8190191762522090750
+    second: matty-wyett-simmonds-flamevfxlooping_30
+  - first:
+      213: 6065686619717882141
+    second: matty-wyett-simmonds-flamevfxlooping_31
+  - first:
+      213: 2442010457453189293
+    second: matty-wyett-simmonds-flamevfxlooping_32
+  - first:
+      213: 2322989587390338443
+    second: matty-wyett-simmonds-flamevfxlooping_33
+  - first:
+      213: -4574378513727634644
+    second: matty-wyett-simmonds-flamevfxlooping_34
+  - first:
+      213: 5996937781377457217
+    second: matty-wyett-simmonds-flamevfxlooping_35
+  - first:
+      213: 5079614131440030629
+    second: matty-wyett-simmonds-flamevfxlooping_36
+  - first:
+      213: -4572642001820521304
+    second: matty-wyett-simmonds-flamevfxlooping_37
+  - first:
+      213: 7905696155689923941
+    second: matty-wyett-simmonds-flamevfxlooping_38
+  - first:
+      213: 4268054076071255885
+    second: matty-wyett-simmonds-flamevfxlooping_39
+  - first:
+      213: 5682985830762511429
+    second: matty-wyett-simmonds-flamevfxlooping_40
+  - first:
+      213: 8000416963899092904
+    second: matty-wyett-simmonds-flamevfxlooping_41
+  - first:
+      213: 8225863746085341461
+    second: matty-wyett-simmonds-flamevfxlooping_42
+  - first:
+      213: 4839150653899549868
+    second: matty-wyett-simmonds-flamevfxlooping_43
+  - first:
+      213: 810819832288167731
+    second: matty-wyett-simmonds-flamevfxlooping_44
+  - first:
+      213: 441379449543441927
+    second: matty-wyett-simmonds-flamevfxlooping_45
+  - first:
+      213: 6215863233259553758
+    second: matty-wyett-simmonds-flamevfxlooping_46
+  - first:
+      213: -4524023541980186240
+    second: matty-wyett-simmonds-flamevfxlooping_47
+  - first:
+      213: 6589527738584179082
+    second: matty-wyett-simmonds-flamevfxlooping_48
+  - first:
+      213: 7905320996684191505
+    second: matty-wyett-simmonds-flamevfxlooping_49
+  - first:
+      213: -8369570887302826259
+    second: matty-wyett-simmonds-flamevfxlooping_50
+  - first:
+      213: 2917379086570533979
+    second: matty-wyett-simmonds-flamevfxlooping_51
+  - first:
+      213: 6578985172113767120
+    second: matty-wyett-simmonds-flamevfxlooping_52
+  - first:
+      213: -3988366588579793642
+    second: matty-wyett-simmonds-flamevfxlooping_53
+  - first:
+      213: 4977854129891748163
+    second: matty-wyett-simmonds-flamevfxlooping_54
+  - first:
+      213: -717414939475664775
+    second: matty-wyett-simmonds-flamevfxlooping_55
+  - first:
+      213: 8069978560815662677
+    second: matty-wyett-simmonds-flamevfxlooping_56
+  - first:
+      213: 1455583683743488521
+    second: matty-wyett-simmonds-flamevfxlooping_57
+  - first:
+      213: 278288193437529750
+    second: matty-wyett-simmonds-flamevfxlooping_58
+  - first:
+      213: 5069377173685692149
+    second: matty-wyett-simmonds-flamevfxlooping_59
+  - first:
+      213: -5417608049809717541
+    second: matty-wyett-simmonds-flamevfxlooping_60
+  - first:
+      213: 1604102847719764624
+    second: matty-wyett-simmonds-flamevfxlooping_61
+  - first:
+      213: -9177646645074004820
+    second: matty-wyett-simmonds-flamevfxlooping_62
+  - first:
+      213: 139518764305457510
+    second: matty-wyett-simmonds-flamevfxlooping_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3316.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2f8de980e36cb10800000000000000
+      internalID: 2001355291158442700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3316.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcb52c4b0f58fe50800000000000000
+      internalID: 6843324135916289237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3316.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4c6d3f1f74138e0800000000000000
+      internalID: -1715510878547819288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3316.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3af30f5130530460800000000000000
+      internalID: 7206692001700641338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3316.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac8bead1e08bf240800000000000000
+      internalID: 4826593133186485410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_5
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3316.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847927bcd31c102c0800000000000000
+      internalID: -4467076884224370872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_6
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3316.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895c6e43aa8ba6b00800000000000000
+      internalID: 822672923120027032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_7
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 3316.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef4af80907d0be0800000000000000
+      internalID: -1509426533911691541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2843.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0c09eb0404905a0800000000000000
+      internalID: -6554637135841804108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2843.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f4593dcab11100800000000000000
+      internalID: 77048059234939478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2843.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e43dd2527b6e3a0800000000000000
+      internalID: -6636415630573351364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2843.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2a3f104fd83c2c0800000000000000
+      internalID: -4412527130748673325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_12
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2843.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149d4e731f905b040800000000000000
+      internalID: 4662643920841529665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2843.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a045e7360989fff90800000000000000
+      internalID: -6917642756705856502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_14
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2843.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022de2755b8fbf340800000000000000
+      internalID: 4898782477431001632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_15
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2843.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3a413e3218b7eb0800000000000000
+      internalID: -4721037793234213900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2370.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605bc8f7953822d0800000000000000
+      internalID: -3303331399845851040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2370.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236051ea1d9fd1250800000000000000
+      internalID: 5917160164398794290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2370.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feabd69d443e71390800000000000000
+      internalID: -7847553940824671505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2370.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae5372ca47a66a0800000000000000
+      internalID: -6455218833141142947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_20
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2370.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc785c30a723dfc50800000000000000
+      internalID: 6700567320227841997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2370.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec420fefd931340800000000000000
+      internalID: 4833380543374872137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_22
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2370.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6f078d85198c120800000000000000
+      internalID: 2434355409368184554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_23
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2370.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af7925130c786e80800000000000000
+      internalID: -8185155970064089183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1897.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9af53575d22f690800000000000000
+      internalID: -7569938170572199502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1897.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9c4ecc4eab35360800000000000000
+      internalID: 7157269724674705885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1897.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af98da8efc7bfdd90800000000000000
+      internalID: -7070730786358588934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_27
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1897.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923705945f3811810800000000000000
+      internalID: 1734312421034586921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1897.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f0cf9706e693d10800000000000000
+      internalID: 2105835661414895389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1897.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4884fc69e82a80f30800000000000000
+      internalID: 4542058957502367876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_30
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1897.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efca577b30869a170800000000000000
+      internalID: 8190191762522090750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_31
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1897.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11df1fd7d5ad2450800000000000000
+      internalID: 6065686619717882141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1424.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8594e9293c3e120800000000000000
+      internalID: 2442010457453189293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1424.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b851555d8baec3020800000000000000
+      internalID: 2322989587390338443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_34
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1424.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c5155afa8480c0800000000000000
+      internalID: -4574378513727634644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_35
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1424.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5f179327693350800000000000000
+      internalID: 5996937781377457217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_36
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1424.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3998cb32a6e7640800000000000000
+      internalID: 5079614131440030629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_37
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1424.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace4748356ba80c0800000000000000
+      internalID: -4572642001820521304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_38
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1424.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565b11674cca6bd60800000000000000
+      internalID: 7905696155689923941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_39
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1424.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f926ea19c2b3b30800000000000000
+      internalID: 4268054076071255885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 951.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c7d2ad0850ede40800000000000000
+      internalID: 5682985830762511429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 951.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afe63437d0370f60800000000000000
+      internalID: 8000416963899092904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 951.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5194e2c9e73282270800000000000000
+      internalID: 8225863746085341461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_43
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 951.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac284c71ed182340800000000000000
+      internalID: 4839150653899549868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_44
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 951.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337c060775c904b00800000000000000
+      internalID: 810819832288167731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_45
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 951.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb1355548102600800000000000000
+      internalID: 441379449543441927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_46
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 951.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c8d67dae234650800000000000000
+      internalID: 6215863233259553758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_47
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 951.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08934c0de807731c0800000000000000
+      internalID: -4524023541980186240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81a4efb094b27b50800000000000000
+      internalID: 6589527738584179082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 478.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1175cc2ff8755bd60800000000000000
+      internalID: 7905320996684191505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 478.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de63dd33f9f49db80800000000000000
+      internalID: -8369570887302826259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_51
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 478.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54b03282dc9c7820800000000000000
+      internalID: 2917379086570533979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_52
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 478.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da376638204d4b50800000000000000
+      internalID: 6578985172113767120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 478.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6153aad08b976a8c0800000000000000
+      internalID: -3988366588579793642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_54
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 478.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349a8e315f3e41540800000000000000
+      internalID: 4977854129891748163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_55
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 478.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970aeffd9ea3b06f0800000000000000
+      internalID: -717414939475664775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5568f669eb25eff60800000000000000
+      internalID: 8069978560815662677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a926af5a5433410800000000000000
+      internalID: 1455583683743488521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 5.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696770333adacd300800000000000000
+      internalID: 278288193437529750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f662064eab0a5640800000000000000
+      internalID: 5069377173685692149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_60
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd68bc2be2ac0d4b0800000000000000
+      internalID: -5417608049809717541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_61
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09277858a0be24610800000000000000
+      internalID: 1604102847719764624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_62
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 5.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4fe46600372a080800000000000000
+      internalID: -9177646645074004820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: matty-wyett-simmonds-flamevfxlooping_63
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 5.25
+        width: 480
+        height: 473.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661ade1b39bafe100800000000000000
+      internalID: 139518764305457510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 75518ee3ba7b63c4d89d4a3044caeb5c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      matty-wyett-simmonds-flamevfxlooping_0: 2001355291158442700
+      matty-wyett-simmonds-flamevfxlooping_9: 77048059234939478
+      matty-wyett-simmonds-flamevfxlooping_21: 4833380543374872137
+      matty-wyett-simmonds-flamevfxlooping_2: -1715510878547819288
+      matty-wyett-simmonds-flamevfxlooping_3: 7206692001700641338
+      matty-wyett-simmonds-flamevfxlooping_61: 1604102847719764624
+      matty-wyett-simmonds-flamevfxlooping_24: -7569938170572199502
+      matty-wyett-simmonds-flamevfxlooping_14: 4898782477431001632
+      matty-wyett-simmonds-flamevfxlooping_41: 8000416963899092904
+      matty-wyett-simmonds-flamevfxlooping_40: 5682985830762511429
+      matty-wyett-simmonds-flamevfxlooping_63: 139518764305457510
+      matty-wyett-simmonds-flamevfxlooping_17: 5917160164398794290
+      matty-wyett-simmonds-flamevfxlooping_31: 6065686619717882141
+      matty-wyett-simmonds-flamevfxlooping_1: 6843324135916289237
+      matty-wyett-simmonds-flamevfxlooping_59: 5069377173685692149
+      matty-wyett-simmonds-flamevfxlooping_4: 4826593133186485410
+      matty-wyett-simmonds-flamevfxlooping_47: -4524023541980186240
+      matty-wyett-simmonds-flamevfxlooping_16: -3303331399845851040
+      matty-wyett-simmonds-flamevfxlooping_32: 2442010457453189293
+      matty-wyett-simmonds-flamevfxlooping_54: 4977854129891748163
+      matty-wyett-simmonds-flamevfxlooping_5: -4467076884224370872
+      matty-wyett-simmonds-flamevfxlooping_12: 4662643920841529665
+      matty-wyett-simmonds-flamevfxlooping_25: 7157269724674705885
+      matty-wyett-simmonds-flamevfxlooping_56: 8069978560815662677
+      matty-wyett-simmonds-flamevfxlooping_22: 2434355409368184554
+      matty-wyett-simmonds-flamevfxlooping_27: 1734312421034586921
+      matty-wyett-simmonds-flamevfxlooping_34: -4574378513727634644
+      matty-wyett-simmonds-flamevfxlooping_49: 7905320996684191505
+      matty-wyett-simmonds-flamevfxlooping_52: 6578985172113767120
+      matty-wyett-simmonds-flamevfxlooping_19: -6455218833141142947
+      matty-wyett-simmonds-flamevfxlooping_23: -8185155970064089183
+      matty-wyett-simmonds-flamevfxlooping_48: 6589527738584179082
+      matty-wyett-simmonds-flamevfxlooping_60: -5417608049809717541
+      matty-wyett-simmonds-flamevfxlooping_37: -4572642001820521304
+      matty-wyett-simmonds-flamevfxlooping_7: -1509426533911691541
+      matty-wyett-simmonds-flamevfxlooping_6: 822672923120027032
+      matty-wyett-simmonds-flamevfxlooping_11: -4412527130748673325
+      matty-wyett-simmonds-flamevfxlooping_57: 1455583683743488521
+      matty-wyett-simmonds-flamevfxlooping_43: 4839150653899549868
+      matty-wyett-simmonds-flamevfxlooping_58: 278288193437529750
+      matty-wyett-simmonds-flamevfxlooping_26: -7070730786358588934
+      matty-wyett-simmonds-flamevfxlooping_8: -6554637135841804108
+      matty-wyett-simmonds-flamevfxlooping_53: -3988366588579793642
+      matty-wyett-simmonds-flamevfxlooping_55: -717414939475664775
+      matty-wyett-simmonds-flamevfxlooping_15: -4721037793234213900
+      matty-wyett-simmonds-flamevfxlooping_36: 5079614131440030629
+      matty-wyett-simmonds-flamevfxlooping_46: 6215863233259553758
+      matty-wyett-simmonds-flamevfxlooping_33: 2322989587390338443
+      matty-wyett-simmonds-flamevfxlooping_51: 2917379086570533979
+      matty-wyett-simmonds-flamevfxlooping_29: 4542058957502367876
+      matty-wyett-simmonds-flamevfxlooping_13: -6917642756705856502
+      matty-wyett-simmonds-flamevfxlooping_30: 8190191762522090750
+      matty-wyett-simmonds-flamevfxlooping_28: 2105835661414895389
+      matty-wyett-simmonds-flamevfxlooping_18: -7847553940824671505
+      matty-wyett-simmonds-flamevfxlooping_45: 441379449543441927
+      matty-wyett-simmonds-flamevfxlooping_38: 7905696155689923941
+      matty-wyett-simmonds-flamevfxlooping_44: 810819832288167731
+      matty-wyett-simmonds-flamevfxlooping_20: 6700567320227841997
+      matty-wyett-simmonds-flamevfxlooping_39: 4268054076071255885
+      matty-wyett-simmonds-flamevfxlooping_62: -9177646645074004820
+      matty-wyett-simmonds-flamevfxlooping_10: -6636415630573351364
+      matty-wyett-simmonds-flamevfxlooping_50: -8369570887302826259
+      matty-wyett-simmonds-flamevfxlooping_42: 8225863746085341461
+      matty-wyett-simmonds-flamevfxlooping_35: 5996937781377457217
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

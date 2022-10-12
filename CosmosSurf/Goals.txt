@@ -1,0 +1,25 @@
+# [x] Add coin collection in game
+	[x] Randomly spawn coins
+	[x] Allow pick up
+	[x] Keep coins after death
+
+# [x] Get Boost Icons
+	[x] 100m head start
+	[x] 200m head start
+	[x] Shield (ie extra life)
+	[x] In-Game Shield
+
+# [] Add boost icons to game at beginning
+	[x] Create Icons
+	[] Allow purchasing for set time (25m)
+	[] Make boosts work
+		[] 100m head start
+		[] 200m head start
+		[] shield
+	[] Fixed amount of boost (ie what u have)
+
+# [] Make Boost Icons buyable
+
+# [] Add revive menu
+	[] Make menu
+	[] Allow player to revive

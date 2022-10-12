@@ -1,0 +1,34 @@
+# [x] Get Chest textures from other game
+# [x] Get Chest anim from other game
+# [x] Add asteroid into game
+# [x] Add alternative obstacles
+# [4/5] Add 5 'main' obstacles
+# [x] Get distance to work
+# [p] Save distances and display high score on main menu
+# [p] Add some achievements
+# [p] Add currency
+
+
+
+
+# [0/5] Add 5 buyable items
+# [x] Add 5 surf boards
+# [3/5] Add 5 characters
+
+# [] Finish Achievements Menu
+# [] Setup Shop Menu
+# [] Script 5 inventory items
+# [] Add in game power ups
+# [] Add coin collection in game
+# [] Add pets
+# [] Add skill tree
+
+
+
+
+
+
+Hold screen = max turn distance 
+Release finger = half turn distance
+
+Near miss? (Extra, larger Collider2D)
