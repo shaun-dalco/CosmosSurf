@@ -99,48 +99,24 @@ public class InvScript : MonoBehaviour
         PlayerPrefs.SetInt("Coins", PlayerPrefs.GetInt("Coins", 0) - amount);
     }
 
-    private void UpdateCoinsAndGems() {
+    public void UpdateCoinsAndGems() {
         PlayerPrefs.SetInt("Coins", coins);
         PlayerPrefs.SetInt("Gems", gems);
     }
 
-    public void BuySkill(int index) {
-        int speedSkill = PlayerPrefs.GetInt("speedSkill", 0);
-        int swingSkill = PlayerPrefs.GetInt("swingSkill", 0);
-        int sizeSkill = PlayerPrefs.GetInt("sizeSkill", 0);
-
-        switch(index) {
+    public static int GetSkillPoints(int type) {
+        switch(type) {
             case 0:
-                //buy speed
-                if(speedSkill < 5) {
-                    if(MenuController.ValidatePurchase((int) Mathf.Pow(2,speedSkill)*100)) {
-                        speedSkill++;
-                        PlayerPrefs.SetInt("speedSkill", speedSkill);
-                    }
-                }
+                return PlayerPrefs.GetInt("speedSkill", 0);
                 break;
-
             case 1:
-                //buy swing
-                if(swingSkill < 5) {
-                    if(MenuController.ValidatePurchase((int) Mathf.Pow(2,swingSkill)*100)) {
-                        swingSkill++;
-                        PlayerPrefs.SetInt("speedSkill", swingSkill);
-                    }
-                }
+                return PlayerPrefs.GetInt("swingSkill", 0);
                 break;
-
             case 2:
-                //buy size
-                if(sizeSkill < 5) {
-                    if(MenuController.ValidatePurchase((int) Mathf.Pow(2,sizeSkill)*100)) {
-                        sizeSkill++;
-                        PlayerPrefs.SetInt("speedSkill", sizeSkill);
-                    }
-                }
+                return PlayerPrefs.GetInt("sizeSkill", 0);
                 break;
-
         }
+        return 0;
     }
     
 

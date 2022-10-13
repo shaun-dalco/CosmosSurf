@@ -35,8 +35,14 @@ public class GameManager : MonoBehaviour
     private float swingStat;
     private float sizeStat;
 
+    private float height;
+    private float width;
+
     void Start()
     {
+        width = (float)Screen.width / 2.0f;
+        height = (float)Screen.height / 2.0f;
+        
         badges[0].text = "" + InvScript.GetNumberOfBoosts(0);
         badges[1].text = "" + InvScript.GetNumberOfBoosts(1);
         badges[2].text = "" + InvScript.GetNumberOfBoosts(2);
@@ -48,6 +54,24 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
+        if (Input.touchCount > 0)
+        {
+            Touch touch = Input.GetTouch(0);
+            Vector2 pos = touch.position;
+            if(pos.x > width/2) {
+                direction = -2;
+                surfboard.eulerAngles = new Vector3(0f, 0f, 225f);
+                surfboard.localScale = new Vector3(0.2f, 0.3f, 1f);
+
+            } else {
+                direction = 2;
+                surfboard.eulerAngles = new Vector3(0f, 0f, 135f);
+                surfboard.localScale = new Vector3(0.2f, 0.3f, 1f);
+
+            }
+            
+        }
+        
         if (Input.GetKeyDown("left"))
         {
             direction = 2;
@@ -238,13 +262,16 @@ public class GameManager : MonoBehaviour
     public void StartBoost(int boost) {
         switch(boost) {
             case 0: // 100m head start
-                StartCoroutine(Boost(100f));
+                if(InvScript.GetNumberOfBoosts(0)>1)
+                    StartCoroutine(Boost(100f));
             break;
             case 1: // 200m head start
-                StartCoroutine(Boost(200f));
+                if(InvScript.GetNumberOfBoosts(1)>1)
+                    StartCoroutine(Boost(200f));
             break;
             case 2: // shield
-                StartCoroutine(ActivateShield(5f));
+                if(InvScript.GetNumberOfBoosts(2)>1)
+                    StartCoroutine(ActivateShield(5f));
 
             break;
         }
@@ -275,8 +302,11 @@ public class GameManager : MonoBehaviour
     }
 
     public void GameOver() {
+        EndGame();
+        /*
         paused = true;
         reviveObj.SetActive(true);
+        */
 
     }
 
