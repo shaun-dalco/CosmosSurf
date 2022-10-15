@@ -101,7 +101,7 @@ public class GameManager : MonoBehaviour
         while(running) {
 
             // Move env
-            realSpeed = (distance/75 + speed) * speedStat;
+            realSpeed = (distance/50 + speed) * speedStat;
             gameEnv.transform.position += new Vector3(0.9f * direction * Time.deltaTime * swingStat, realSpeed * Time.deltaTime, 0f);
 
             timeElapsed += Time.deltaTime;
@@ -154,11 +154,37 @@ public class GameManager : MonoBehaviour
                     newObj = (GameObject) Instantiate(obstacles[ran]) as GameObject;
                     newObj.transform.parent = gameEnv.transform;
                     newObj.transform.position = new Vector3(rand*1.5f, -28f, -0.5f);
+                    newObj.transform.localScale = new Vector3(0.5f,0.5f,0.5f);
 
                     ran = Random.Range(0, obstacles.Length);
                     newObj = (GameObject) Instantiate(obstacles[ran]) as GameObject;
                     newObj.transform.parent = gameEnv.transform;
                     newObj.transform.position = new Vector3(rand*1.5f, -20f, -0.5f);
+                    newObj.transform.localScale = new Vector3(0.5f,0.5f,0.5f);
+
+                    ran = Random.Range(0, obstacles.Length);
+                    newObj = (GameObject) Instantiate(obstacles[ran]) as GameObject;
+                    newObj.transform.parent = gameEnv.transform;
+                    newObj.transform.position = new Vector3(rand*1.12f, -27f, -0.5f);
+                    newObj.transform.localScale = new Vector3(0.5f,0.5f,0.5f);
+
+                    ran = Random.Range(0, obstacles.Length);
+                    newObj = (GameObject) Instantiate(obstacles[ran]) as GameObject;
+                    newObj.transform.parent = gameEnv.transform;
+                    newObj.transform.position = new Vector3(rand*1.12f, -31f, -0.5f);
+                    newObj.transform.localScale = new Vector3(0.5f,0.5f,0.5f);
+
+                    ran = Random.Range(0, obstacles.Length);
+                    newObj = (GameObject) Instantiate(obstacles[ran]) as GameObject;
+                    newObj.transform.parent = gameEnv.transform;
+                    newObj.transform.position = new Vector3(rand*1.3f, -35f, -0.5f);
+                    newObj.transform.localScale = new Vector3(0.5f,0.5f,0.5f);
+
+                    ran = Random.Range(0, obstacles.Length);
+                    newObj = (GameObject) Instantiate(obstacles[ran]) as GameObject;
+                    newObj.transform.parent = gameEnv.transform;
+                    newObj.transform.position = new Vector3(rand*1.3f, -35f, -0.5f);
+                    newObj.transform.localScale = new Vector3(0.5f,0.5f,0.5f);
                 }
 
                 if(distance > 220) {
@@ -178,6 +204,7 @@ public class GameManager : MonoBehaviour
                     newObj = (GameObject) Instantiate(obstacles[ran]) as GameObject;
                     newObj.transform.parent = gameEnv.transform;
                     newObj.transform.position = new Vector3(rand+5f, -20f, -0.5f);
+                    newObj.transform.localScale = new Vector3(0.3f,0.3f,0.3f);
 
                     ran = Random.Range(0, obstacles.Length);
                     newObj = (GameObject) Instantiate(obstacles[ran]) as GameObject;
@@ -196,6 +223,7 @@ public class GameManager : MonoBehaviour
                     newObj = (GameObject) Instantiate(obstacles[ran]) as GameObject;
                     newObj.transform.parent = gameEnv.transform;
                     newObj.transform.position = new Vector3(rand-10f, -24f, -0.5f);
+                    newObj.transform.localScale = new Vector3(0.5f,0.5f,0.5f);
                     newObj.AddComponent<VelocityScript>();
                 }
 
